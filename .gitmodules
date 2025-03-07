@@ -1,0 +1,3 @@
+[submodule "FigureQA-baseline"]
+	path = FigureQA-baseline
+	url = https://github.com/Saarthakkj/FigureQA-baseline
